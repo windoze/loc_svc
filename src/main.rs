@@ -37,7 +37,7 @@ fn init_locations() -> Vec<String> {
 #[tokio::main]
 async fn main() -> Result<(), std::io::Error> {
     let app = Route::new().at("/locations/:id", get(get_location));
-    Server::new(TcpListener::bind("127.0.0.1:3000"))
+    Server::new(TcpListener::bind("0.0.0.0:8080"))
         .run(app)
         .await
 }
