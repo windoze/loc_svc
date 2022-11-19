@@ -1,266 +1,363 @@
-1 Eagle St.
-1 Park St.
-10 Bradford Street
-108 Greenview Drive
-108 Valley St.
-11 E. Hanover Drive
-113 E. 4th Street
-13 Mammoth Drive
-14 Greenrose Ave.
-14 N. Cherry Ave.
-155 East Woodsman Dr.
-16 West Nut Swamp Drive
-168 Ashley Avenue
-18 East Windfall Ave.
-18 Miller Dr.
-18 Sherman Dr.
-184 Nut Swamp St.
-19 Laurel Ave.
-198 Hillcrest Street
-20 Heritage St.
-203 Marvon St.
-204 Old York Street
-205 Illinois Road
-207 Windfall St.
-214 Greenrose Street
-223 Cooper Drive
-253 Sunbeam Street
-258 Middle River St.
-26 Mill Pond St.
-26 Union Ave.
-27 Sunset St.
-270 East Ocean St.
-28 Poplar Street
-281 Heritage Ave.
-282 Sherman Road
-288 S. Hanover Street
-296 Berkshire St.
-298 Ketch Harbour St.
-3 Hall Street
-30 Mayfield Street
-301 Nicolls Street
-304 Elizabeth Drive
-304 Mayflower Ave.
-313 Tallwood Rd.
-32 Pawnee Dr.
-34 James Court
-341 East Ridgeview Ave.
-344 Ann St.
-35 Courtland St.
-353 Deerfield Road
-357 State Lane
-374 Westminster Ave.
-38 Shirley St.
-388 North San Pablo Dr.
-4 Manor Station Dr.
-40 S. Howard St.
-41 Lake View Street
-42 Sierra Ave.
-43 Cedar Street
-43 North Country Rd.
-43 West Homestead Dr.
-44 Miller Dr.
-45 Pulaski Rd.
-451 Branch St.
-458 North Shub Farm Street
-46 John St.
-47 Wall St.
-48 Grandrose Avenue
-48 Pendergast Drive
-49 Hartford Street
-5 Fremont Court
-5 S. Pine Lane
-5 West East Ave.
-5 Wood Drive
-50 Lilac St.
-50 West York Ave.
-513 Helen Court
-515 Mammoth Lane
-54 Glen Creek Court
-541 Manor Dr.
-55 E. 2nd St.
-55 Glenridge Street
-55 Oklahoma Ave.
-56 Border Rd.
-576 Proctor St.
-582 Tanglewood Street
-589 Edgemont Dr.
-595 Tarkiln Hill Court
-6 Rockland St.
-6 Wilson Road
-60 Roosevelt Court
-605 Bohemia Ave.
-61 Edgemont Dr.
-619 Fairview Lane
-62 Cottage Rd.
-620 Ridgeview Street
-63 Homestead Ave.
-637 Cypress Dr.
-64 Smith Store Street
-642 Vernon Dr.
-644 West St.
-646 State St.
-649 Hawthorne Rd.
-65 Surrey Road
-66 Peg Shop Ave.
-661 Manor Station Avenue
-664 North Kent Court
-67 Lake Forest St.
-684 Birch Hill Street
-689 Marconi Street
-696 Wellington Ave.
-7 Coffee Drive
-7 Magnolia Dr.
-70 Lafayette Dr.
-7026 Addison Ave.
-7030 Smith Store Ave.
-7050 Gates St.
-706 NW. Fairview Dr.
-7069 Roosevelt Court
-707 1st Rd.
-7070 Atlantic Street
-71 Jones Rd.
-71 South Hawthorne St.
-7117 S. Deerfield Lane
-7176 S. Roosevelt St.
-719 Greenrose Ave.
-7193 Ocean Ave.
-723 La Sierra Court
-7277 Lancaster Street
-729 Riverside St.
-73 Foster Rd.
-73 Mammoth St.
-73 Stonybrook St.
-73 Wentworth Drive
-7302 South Wellington Ave.
-7350 Halifax St.
-7394 Fulton Road
-74 Delaware Dr.
-74 State St.
-7412 College St.
-742 E. Ashley St.
-7497 Catherine Drive
-75 NW. Windfall Street
-7531 Helen St.
-76 Marvon St.
-7613 S. Thatcher Drive
-7623 Logan St.
-7726 Thomas Street
-7758 Albany Street
-7767 Helen Dr.
-777 Ann Drive
-778 Cleveland Avenue
-7786 Woodside Ave.
-78 8th Dr.
-78 E. Plymouth St.
-78 Thatcher Avenue
-782 Summer Circle
-7836 Hamilton St.
-7850 High Ridge St.
-79 William Lane
-7922 Hanover Rd.
-7998 Parker Ave.
-8 Brandywine Avenue
-8 Madison Street
-8 Stonybrook Dr.
-80 Galvin Rd.
-80 Pin Oak Court
-8052 Heather Circle
-8084 S. Sunset St.
-81 Colonial St.
-81 High Noon Ave.
-8109 Canterbury Drive
-8127 Randall Mill St.
-8176 Tailwater Court
-8185 Birchwood Court
-8252 North Branch St.
-8253 Gartner St.
-8256 Mayflower St.
-8293 Briarwood Court
-833 Gulf Ave.
-8336 Rose Ave.
-8381 Birchwood Dr.
-84 Mayflower Rd.
-8450 Somerset St.
-8463 Cross St.
-8465 Old Amherst St.
-85 Fifth Street
-8508 Winding Way Avenue
-852 Railroad Dr.
-8594 Helen Street
-8596 Rock Maple Street
-86 Arrowhead St.
-86 Gulf Drive
-8600 Glenwood Drive
-8609 Bay Meadows Drive
-863 Anderson Street
-863 South Lexington Street
-867 Proctor Court
-87 Aspen St.
-87 Circle St.
-8712 Theatre Street
-8715 E. Bay Meadows Street
-872 Plymouth Road
-8749 Oakwood Avenue
-875 Longbranch Road
-8778 North Pin Oak St.
-88 Maiden St.
-89 Fordham Rd.
-8902 East Monroe St.
-8952 Cottage Street
-8957 Winchester Street
-9 Marsh Ave.
-9 S. Grandrose St.
-9 Walt Whitman Dr.
-90 East Birchpond Court
-90 Purple Finch St.
-90 South Rockaway Ave.
-9016 Myrtle Drive
-9017 Bayberry Dr.
-91 Grove Avenue
-91 Lancaster Lane
-91 Myers Dr.
-9117 Sunnyslope Drive
-914 Kingston St.
-9146 Hilltop Dr.
-916 Fordham St.
-92 Colonial Circle
-9211 1st Street
-9232 Third Drive
-9261 W. Essex Street
-931 Bald Hill St.
-9323 Manor Station St.
-9381 Front Ave.
-9383 Purple Finch Dr.
-9396 Spring St.
-9457 Grove Ave.
-9459 Cedarwood Rd.
-9461 Rockland St.
-95 Grand St.
-9516 Grove Ave.
-9537 Manhattan Street
-9545 Grand Ave.
-955 Kirkland Lane
-9550 St Margarets Ave.
-9553 Colonial Avenue
-9565 Valley View Lane
-96 Elizabeth Rd.
-96 NW. Bridle Court
-96 Rockcrest St.
-9614 Green Lake Lane
-9634 East Monroe Ave.
-9668 Marvon Dr.
-9674 Birch Hill St.
-97 Arnold Rd.
-97 North Drive
-970 University St.
-971 Saxton St.
-973 Longbranch St.
-9736 East Southampton Ave.
-9745 S. Fifth St.
-9755 Ridge Ave.
-9776 Pulaski Street
-9782 Clay Lane
-98 SE. Poplar St.
-9841 S. Elmwood Ave.
-618 Littleton Street
+342 Griffin Street, Bronx, NY 10472
+9240 Shipley Lane, Troy, NY 12180
+7896 Devon Court, Endicott, NY 13760
+290 North Euclid St., Brooklyn, NY 11211
+478 Gonzales Street, Flushing, NY 11355
+9544 Trusel Court, Jamestown, NY 14701
+40 Wilson Ave., Brooklyn, NY 11237
+566 Walnutwood Ave., Brooklyn, NY 11220
+37 University Avenue, Brooklyn, NY 11229
+337 Edgemont Drive, Hamburg, NY 14075
+7462 Chapel Street, Buffalo, NY 14215
+33 Marsh St., Brooklyn, NY 11221
+104 Albany Ave., Lindenhurst, NY 11757
+7582 Hudson Road, Huntington Station, NY 11746
+7635 Mayflower Ave., Brooklyn, NY 11210
+632 North Proctor Ave., New York, NY 10024
+570 Monroe St., Bronx, NY 10463
+725 Prairie Drive, Jamaica, NY 11432
+8683 Golf Ave., Bronx, NY 10451
+8468 Euclid Ave., Bay Shore, NY 11706
+9879 Lookout St., New York, NY 10027
+1C Sutor Dr., New York, NY 10029
+8163 East Highland Ave., Brooklyn, NY 11213
+68 William Court, Brooklyn, NY 11201
+7379 Devon Drive, Poughkeepsie, NY 12603
+50 Glenlake Street, Massapequa, NY 11758
+129 North High Noon St., Bronx, NY 10465
+7912 Newbridge Street, Brentwood, NY 11717
+426 Ann Dr., Bronx, NY 10460
+8805 Arnold St., Elmont, NY 11003
+7 Cambridge St., Brooklyn, NY 11216
+683 Philmont Street, Ridgewood, NY 11385
+7 Colonial Lane, New York, NY 10009
+7 Lake Lane, Brooklyn, NY 11204
+2 Essex Rd., New York, NY 10011
+9794 Bradford Drive, Brooklyn, NY 11206
+517 Westport St., South Ozone Park, NY 11420
+8480 Parker Street, Middletown, NY 10940
+81 Lyme Dr., Brooklyn, NY 11203
+70 Poor House Ave., Huntington, NY 11743
+93 Bowman Ave., Spring Valley, NY 10977
+275 W. Railroad Street, New York, NY 10032
+76 Hilldale Dr., Staten Island, NY 10314
+9576 Brook Street, Bronx, NY 10453
+3 Grant Ave., Tonawanda, NY 14150
+37 N. John Road, Bronx, NY 10468
+623 S. Jefferson St., New York, NY 10040
+9541 Union Street, New York, NY 10002
+865 53rd Rd., North Tonawanda, NY 14120
+9784 Mechanic Drive, Fairport, NY 14450
+9 Evergreen Ave., Rome, NY 13440
+7370 Euclid Dr., Bronx, NY 10457
+9925 High Ridge Lane, Corona, NY 11368
+471 Berkshire Drive, Brooklyn, NY 11224
+157 NW. Elizabeth Lane, Poughkeepsie, NY 12601
+8195 Woodside Lane, Buffalo, NY 14221
+8733 Laurel St., New York, NY 10033
+280 John St., Astoria, NY 11103
+865 St Paul Ave., Webster, NY 14580
+393 Church Court, Brooklyn, NY 11212
+8591 Windfall Drive, Rochester, NY 14609
+989 Cooper Drive, Brooklyn, NY 11225
+48 NW. Hawthorne Street, New York, NY 10003
+38 Wood St., Bronx, NY 10452
+97 Clinton Ave., Brooklyn, NY 11235
+233 Cherry Hill Street, Newburgh, NY 12550
+725 S. Albany Rd., Brooklyn, NY 11208
+4 Snake Hill Street, Brooklyn, NY 11219
+7994 Lookout Ave., South Richmond Hill, NY 11419
+7545 St Margarets St., West Babylon, NY 11704
+10 Brown St., Bronx, NY 10462
+840 Parker Drive, Jamaica, NY 11435
+2 Shady Drive, Rego Park, NY 11374
+74 Center Ave., Woodside, NY 11377
+8663 N. Magnolia Ave., Buffalo, NY 14224
+69 Cardinal St., Flushing, NY 11354
+7330 West Columbia Ave., Ithaca, NY 14850
+8946 Riverview Rd., Brooklyn, NY 11218
+7936 Williams St., Freeport, NY 11520
+7668 Beach Rd., Hempstead, NY 11550
+564 Plumb Branch Lane, Brooklyn, NY 11223
+61 Monroe Dr., Bronx, NY 10466
+815 Mill Road, New York, NY 10023
+85 Fawn St., Brooklyn, NY 11234
+7 Chapel Drive, Bronx, NY 10456
+8281 Green Hill Lane, Levittown, NY 11756
+20 Beach Ave., New York, NY 10016
+78 Shady Dr., Bronx, NY 10467
+722 Livingston St., East Elmhurst, NY 11370
+278 Rockland Court, Westbury, NY 11590
+8758 Tailwater Street, Brooklyn, NY 11228
+10 South St., Auburn, NY 13021
+69 Applegate Ave., Brooklyn, NY 11207
+74 Elm Drive, Far Rockaway, NY 11691
+754 Hamilton Road, Jamaica, NY 11434
+7606 E. Manchester Lane, Astoria, NY 11106
+48 Trout Street, New York, NY 10031
+41 S. Cypress Drive, Fresh Meadows, NY 11365
+978 Brewery St., Brooklyn, NY 11209
+9240 Del Monte Ave., Staten Island, NY 10312
+7742 E. Birch Hill St., New York, NY 10034
+7839 Santa Clara Ave., Brooklyn, NY 11233
+3 Grandrose St., Bronx, NY 10469
+1 Beach St., Yonkers, NY 10701
+251 Sulphur Springs Court, Jackson Heights, NY 11372
+3 S. Homewood Street, New York, NY 10128
+73 George Rd., Brooklyn, NY 11236
+577 Lakewood Dr., Bronx, NY 10473
+9415 Buckingham Dr., Astoria, NY 11105
+924 Yukon Lane, Lockport, NY 14094
+6 Indian Spring Rd., Brooklyn, NY 11238
+7101 Canal Drive, Brooklyn, NY 11230
+362 Glen Creek Ave., Bronx, NY 10461
+15 Fairground St., Brooklyn, NY 11214
+158 West Ohio St., Patchogue, NY 11772
+8874 Mill Pond St., New York, NY 10028
+78 North San Carlos Ave., Staten Island, NY 10306
+63 Silver Spear Road, New York, NY 10025
+177 Primrose Street, Brooklyn, NY 11215
+261 Depot St., Forest Hills, NY 11375
+88 Court Dr., Bronx, NY 10458
+7 East Colonial Circle, Jamestown, NY 14701
+50 North Sierra Ave., Brooklyn, NY 11212
+386 Anderson Avenue, Brooklyn, NY 11215
+7477 Pearl Court, Bronx, NY 10468
+8504 Myrtle Rd., Brooklyn, NY 11234
+16 Buttonwood St., South Ozone Park, NY 11420
+8838 Cardinal St., Far Rockaway, NY 11691
+72 3rd St., Woodside, NY 11377
+594 Edgemont St., Flushing, NY 11355
+29 Hartford St., Brooklyn, NY 11225
+37 W. Cedar Street, Newburgh, NY 12550
+739 W. Essex Rd., Brooklyn, NY 11235
+26 Crescent St., Brooklyn, NY 11228
+8088 South Vale Ave., Jamaica, NY 11434
+2 Bear Hill Dr., New York, NY 10003
+1 El Dorado Avenue, Hempstead, NY 11550
+337 Paris Hill St., Auburn, NY 13021
+501 Pine Drive, New York, NY 10040
+8 Brook Dr., New York, NY 10034
+7947 Gulf Drive, Brooklyn, NY 11220
+24 E. Cherry Hill Dr., Brooklyn, NY 11233
+242 Augusta St., Brooklyn, NY 11216
+9088 Coffee Court, New York, NY 10009
+21 Smith Street, Brooklyn, NY 11214
+619 Bradford Dr., Jackson Heights, NY 11372
+7677 S. Vermont Street, Brooklyn, NY 11203
+9219 Ramblewood Rd., Ithaca, NY 14850
+897 West Airport St., Lindenhurst, NY 11757
+9613 North St., Brooklyn, NY 11218
+9 S. Aspen Court, Corona, NY 11368
+5 Brook St., Fairport, NY 14450
+17 Nicolls Ave., New York, NY 10031
+9227 Yukon St., Bronx, NY 10462
+9873 Fordham Drive, Bronx, NY 10456
+358 Crescent Road, New York, NY 10023
+9924 W. Howard St., New York, NY 10032
+837 North High Ridge Ave., Staten Island, NY 10312
+235 NW. Sierra Street, Brooklyn, NY 11221
+26 Race Rd., Bronx, NY 10458
+8 Country St., Bronx, NY 10461
+13 W. Annadale Drive, New York, NY 10028
+515 Rockland Drive, Endicott, NY 13760
+60 Taylor St., Spring Valley, NY 10977
+8076 South Ramblewood Drive, Brooklyn, NY 11219
+628 Pin Oak St., New York, NY 10002
+790 Eagle St., Brooklyn, NY 11224
+8162 North Bridle Ave., Rochester, NY 14609
+711 William Court, Tonawanda, NY 14150
+8092 Swanson St., Brooklyn, NY 11230
+7763 South Adams Lane, Bronx, NY 10469
+58 Brickyard Drive, Brooklyn, NY 11237
+400 Bear Hill Ave., Buffalo, NY 14224
+826 Belmont Dr., Bronx, NY 10457
+73 Schoolhouse Street, Bronx, NY 10465
+719 East Nicolls Drive, Brentwood, NY 11717
+152 Bishop St., Staten Island, NY 10314
+967 Front Drive, Bay Shore, NY 11706
+7654 Studebaker Ave., Bronx, NY 10466
+186 Jennings Drive, Rego Park, NY 11374
+450 Miller Lane, Elmont, NY 11003
+8997 Country Club St., Brooklyn, NY 11238
+7988 Carriage Road, Buffalo, NY 14221
+7004 John St., Bronx, NY 10463
+3 Oak Valley Lane, Patchogue, NY 11772
+40 Squaw Creek Ave., New York, NY 10016
+9001 E. Princeton Lane, Brooklyn, NY 11206
+62 Trenton Court, Astoria, NY 11105
+9910 Pleasant Ave., Bronx, NY 10472
+48 E. Third Dr., Levittown, NY 11756
+14 Corona Street, Troy, NY 12180
+730 Poplar Street, New York, NY 10128
+45 Newcastle Court, Brooklyn, NY 11211
+556 Olive Rd., Hamburg, NY 14075
+850 Kingston St., Huntington Station, NY 11746
+7138 Bohemia St., Freeport, NY 11520
+129 Sussex Lane, North Tonawanda, NY 14120
+221 Bishop Drive, Forest Hills, NY 11375
+3 White Street, Massapequa, NY 11758
+7128 San Juan Dr., Jamaica, NY 11435
+666 Gonzales Lane, Rome, NY 13440
+32 Lincoln St., Bronx, NY 10451
+7862 E. Golden Star St., Brooklyn, NY 11209
+8016 Pearl Drive, Brooklyn, NY 11208
+40 Canterbury St., Poughkeepsie, NY 12603
+9509 Laurel Court, Huntington, NY 11743
+8 Ivy St., Brooklyn, NY 11207
+588 Shore St., Fresh Meadows, NY 11365
+911 Longfellow Lane, Brooklyn, NY 11210
+72 N. Sunset St., New York, NY 10025
+994 Purple Finch Street, New York, NY 10024
+339 Smith Store St., Bronx, NY 10473
+7 Greystone Court, West Babylon, NY 11704
+7971 East St., New York, NY 10011
+7431 Grove Drive, Westbury, NY 11590
+15 S. Magnolia Dr., New York, NY 10033
+57 S. Depot Ave., Poughkeepsie, NY 12601
+25 Wentworth St., Buffalo, NY 14215
+8 W. Rock Creek St., Yonkers, NY 10701
+71 N. Riverside Lane, Middletown, NY 10940
+9611 Paris Hill Ave., Staten Island, NY 10306
+941 S. Ridgewood St., Lockport, NY 14094
+9028 Helen Drive, Bronx, NY 10467
+73 Talbot Ave., South Richmond Hill, NY 11419
+9478 Military Ave., New York, NY 10029
+8377 Shirley Drive, Bronx, NY 10453
+8298 Carpenter St., Brooklyn, NY 11201
+37 Bowman St., Brooklyn, NY 11213
+7713 Heather Avenue, Astoria, NY 11106
+24 Courtland Road, Ridgewood, NY 11385
+66 Shub Farm Dr., East Elmhurst, NY 11370
+7022 Peg Shop Lane, Brooklyn, NY 11204
+64 10th St., Webster, NY 14580
+541 Wood Ave., New York, NY 10027
+8209 Branch St., Brooklyn, NY 11223
+8355 Cooper Ave., Brooklyn, NY 11229
+1 Philmont St., Astoria, NY 11103
+88 Ridge Ave., Brooklyn, NY 11236
+799 Pumpkin Hill Street, Bronx, NY 10452
+54 Blue Spring Ave., Jamaica, NY 11432
+3 S. Bohemia Avenue, Bronx, NY 10460
+7085 Brickell St., Flushing, NY 11354
+53 Pendergast Street, New York, NY 10003
+170 N. Littleton Drive, Ithaca, NY 14850
+7197 South River Dr., Auburn, NY 13021
+779 Oak Valley Street, Bronx, NY 10460
+9646 South Indian Spring Ave., Brooklyn, NY 11207
+44 W. Roberts Ave., Brooklyn, NY 11223
+565 Lookout St., Westbury, NY 11590
+96 Poplar Ave., Rego Park, NY 11374
+30 Maple Ave., Rome, NY 13440
+8125 Griffin Street, Fairport, NY 14450
+894 Manchester St., Brooklyn, NY 11203
+9 Indian Spring St., Webster, NY 14580
+34 Lilac Street, Middletown, NY 10940
+555 Ryan Road, Bronx, NY 10472
+192 School St., Endicott, NY 13760
+441 Newcastle St., New York, NY 10034
+14 Pendergast Street, Brooklyn, NY 11238
+11 Green Lake Court, New York, NY 10024
+483 Lancaster Rd., Bronx, NY 10456
+5 Charles Dr., Fresh Meadows, NY 11365
+8 West Pierce Court, Brooklyn, NY 11237
+97 Silver Spear Ave., Bronx, NY 10463
+91 Race Street, Brooklyn, NY 11228
+626 Cottage St., Lindenhurst, NY 11757
+33 Durham Ave., Buffalo, NY 14224
+25 Bald Hill St., Yonkers, NY 10701
+76 Prairie Ave., Tonawanda, NY 14150
+16 South Plymouth Ave., Patchogue, NY 11772
+33 Santa Clara Ave., Rochester, NY 14609
+9 Plymouth Drive, Brentwood, NY 11717
+867 State Ave., North Tonawanda, NY 14120
+96 S. Division Rd., Spring Valley, NY 10977
+503 Prospect St., Brooklyn, NY 11209
+5 Hillcrest Dr., Bronx, NY 10466
+635 Cross Lane, Jamaica, NY 11432
+49 Trout Ave., Brooklyn, NY 11233
+26 Glen Ridge St., Brooklyn, NY 11201
+284 Beech Court, New York, NY 10023
+980 Grant Road, Bronx, NY 10468
+949 Pumpkin Hill St., Flushing, NY 11354
+32 East Overlook Drive, New York, NY 10033
+99 Circle Ave., New York, NY 10128
+377 Woodside Street, New York, NY 10032
+77 Charles Ave., Bronx, NY 10461
+7673 Airport Street, Newburgh, NY 12550
+340 Shore St., Brooklyn, NY 11220
+8687 SW. White Ave., Astoria, NY 11103
+8354 Mill Ave., Poughkeepsie, NY 12601
+286 East Heather Dr., Brooklyn, NY 11235
+97 Silver Spear St., Bronx, NY 10458
+699 Monroe St., Hempstead, NY 11550
+68 Rockaway Ave., Huntington, NY 11743
+8969 Country Ave., Staten Island, NY 10312
+275 Military Drive, Far Rockaway, NY 11691
+364 Glenholme St., Brooklyn, NY 11225
+722 Thomas Lane, Troy, NY 12180
+28 E. Magnolia Street, West Babylon, NY 11704
+7473 West Illinois St., Ridgewood, NY 11385
+8 Brook Drive, New York, NY 10011
+938 Summit Drive, New York, NY 10028
+7276 Wild Horse Street, Brooklyn, NY 11213
+4 West Glenwood Ave., New York, NY 10025
+56 Thatcher Street, Bronx, NY 10451
+68 Gainsway St., Astoria, NY 11105
+7309 Amherst St., New York, NY 10040
+81 San Carlos Street, New York, NY 10016
+8884 N. Birchpond Lane, Brooklyn, NY 11208
+7333 Helen Drive, Brooklyn, NY 11219
+220 Smoky Hollow Avenue, Buffalo, NY 14215
+4 Foster Dr., Brooklyn, NY 11230
+21 Marsh Ave., Bronx, NY 10453
+8955 Pawnee Avenue, Freeport, NY 11520
+7234 Winchester St., Jamaica, NY 11434
+299 NW. State Drive, Brooklyn, NY 11236
+39 South Westminster Ave., Brooklyn, NY 11224
+7738 Pawnee Avenue, Flushing, NY 11355
+7188 Henry Smith St., Brooklyn, NY 11206
+9 Green Hill St., Bronx, NY 10452
+540 Devon St., Corona, NY 11368
+1 Bellevue St., Buffalo, NY 14221
+152 Smoky Hollow Road, Bay Shore, NY 11706
+9115 Lake Forest Dr., Bronx, NY 10467
+90 Old Country Club Drive, Suite 49, Bronx, NY 10469
+81 Birchpond Dr., Brooklyn, NY 11234
+284 West Glen Ridge Court, Staten Island, NY 10314
+502 Addison Ave., New York, NY 10029
+761 SW. Brandywine Street, Huntington Station, NY 11746
+9 Halifax Drive, Brooklyn, NY 11221
+28 Marlborough Avenue, Bronx, NY 10462
+9102 Boston St., Jamaica, NY 11435
+9407 Richardson Dr., Brooklyn, NY 11215
+964 E. Theatre Drive, Brooklyn, NY 11210
+8884 Rock Maple St., Brooklyn, NY 11216
+79 Argyle Ave., Staten Island, NY 10306
+68 Cooper Lane, Bronx, NY 10465
+878 La Sierra St., Lockport, NY 14094
+822 San Pablo Street, Brooklyn, NY 11212
+9804 Pleasant Street, Astoria, NY 11106
+22 Cooper Road, Brooklyn, NY 11218
+89 East Newcastle Dr., South Richmond Hill, NY 11419
+8460 N. Courtland Ave., Brooklyn, NY 11214
+7670 Ridgewood Drive, Jackson Heights, NY 11372
+990 W. High Ridge Street, Bronx, NY 10457
+86 Lees Creek Dr., Woodside, NY 11377
+213 Cobblestone Street, Forest Hills, NY 11375
+156 Rockland Circle, New York, NY 10002
+7344 Marlborough Avenue, Massapequa, NY 11758
+991 Van Dyke St., New York, NY 10009
+8567 Howard St., South Ozone Park, NY 11420
+716 Homewood Ave., Levittown, NY 11756
+970 N. Pawnee St., New York, NY 10031
+9601 Sycamore Dr., East Elmhurst, NY 11370
+9083 Beacon Ave., Brooklyn, NY 11211
+8605 Cambridge St., Hamburg, NY 14075
+319 Pearl Drive, New York, NY 10027
+43 Middle River St., Poughkeepsie, NY 12603
+129 South Silver Spear Ave., Brooklyn, NY 11204
+823 Roehampton St., Elmont, NY 11003
+4 Rockwell Street, Brooklyn, NY 11229
+9433 Woodland St., Jamestown, NY 14701
+9753 Oklahoma Avenue, Bronx, NY 10473
